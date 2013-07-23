@@ -1,0 +1,56 @@
+#training-hr-zones {
+        font-family: arial;
+}
+
+#column-two {
+        float: left;
+        margin-left: 20%;
+}
+
+#max-heartrate {
+        display: inline-block;
+}
+
+.zone-description {
+        margin-top: 5%;
+}
+
+.all-heartrate{
+        float: left;
+        margin-left: 5%;
+}
+
+.all-zones{
+        float:left;
+        margin-left: 3%;
+}
+
+.heartrate-zone{
+        background: pink;
+        color: white;
+        border-bottom: solid white;
+        text-align: center;
+}
+
+.year-selector{
+        clear:both;
+        margin-left: 10%;
+}
+
+.hover {
+        background: red;
+        font-weight: bold; 
+}
+
+.active {
+        background: red;
+        font-weight: bold;
+}
+
+.heartrate {
+        border-bottom:solid pink;
+}
+
+#zone-title {
+        font-weight: bold;
+}
